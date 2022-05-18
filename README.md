@@ -7,7 +7,7 @@ It is a webpage about the fictional universe of spider-man, also explaining the 
 
 # Layout
 
-<p>Link of the page: </p>
+<p>Link of the page: coming soon </p>
 
 <div align="center">
 <img src="" width="90%" />
