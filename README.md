@@ -10,7 +10,7 @@ It is a webpage about the fictional universe of spider-man, also explaining the 
 <p>Link of the page: coming soon </p>
 
 <div align="center">
-<img src="" width="90%" />
+<img src="https://user-images.githubusercontent.com/26259171/169074904-fbd95086-ff06-4d47-970c-b99d88aa6bf5.png" width="90%" />
 </div>
 
 # Technologies
