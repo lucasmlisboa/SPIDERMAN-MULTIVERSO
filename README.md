@@ -1,4 +1,4 @@
-# Project: Spider-man: multiverse
+# Project: Spider-man: multiverse (in progress...)
 
 <h3> About </h3>
 <p>This page was created to put into practice the knowledge acquired with HTML, CSS and Javascript.
